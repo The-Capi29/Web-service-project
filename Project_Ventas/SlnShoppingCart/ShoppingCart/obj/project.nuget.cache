@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ni4BT8ZH3r5BcRfGOeZP52lkbuT6fC4H7YC6m+t82T0e6OumP7m8MPj5RV8QClqA2j3pkBBPj6gV1DIhgm42jQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\Cibertec\\Cibertec_V\\DESARROLLO DE SERVICIOS WEB I\\Proyecto\\Project_Ventas\\SlnShoppingCart\\ShoppingCart\\ShoppingCart.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\bootstrap\\5.2.1\\bootstrap.5.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
